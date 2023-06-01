@@ -8,8 +8,6 @@ Get Keyboard Inputs sent to a Burner Mail Address to test security of informatio
 
 •**Create an account on "https://mailtrap.io/" using a temp mail.**
 
-![github-small](https://github.com/aydinnyunus/WifiPassword-Stealer/blob/master/images/dene.png?raw=true)
-
 •**Set personal SMTP USERNAME and SMTP PASSWORD in "keylogger.py".**
 
 •**pip install -r requirements.txt**
