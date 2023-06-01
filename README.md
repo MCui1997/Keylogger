@@ -4,7 +4,7 @@ Get Keyboard Inputs sent to a Burner Mail Address to test security of informatio
 
 ## INSTRUCTIONS
 
-**No installation required, just run screipt**
+**No installation required, just run script**
 
 •**Create an account on "https://mailtrap.io/" using a temp mail.**
 
