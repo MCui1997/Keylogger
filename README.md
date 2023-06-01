@@ -1,28 +1,21 @@
-# Inputs To Mail.
-Get Keyboard,Mouse,ScreenShot,Microphone Inputs and Send to your Mail.
-Purpose of the project is testing the security of information systems
+# Keylogger with Inputs sent to Mail
 
-## INSTALLATION
+Get Keyboard Inputs sent to a Burner Mail Address to test security of information systems.
 
-**You don't need to do anything for installation just run the script**
+## INSTRUCTIONS
 
-![github-small](/images/Adsız.png)
-
-## USAGE
+**No installation required, just run screipt**
 
 •**Create an account on "https://mailtrap.io/" using a temp mail.**
 
 ![github-small](https://github.com/aydinnyunus/WifiPassword-Stealer/blob/master/images/dene.png?raw=true)
 
-
-•**Set your own SMTP USERNAME and SMTP PASSWORD on "keylogger.py".**
+•**Set personal SMTP USERNAME and SMTP PASSWORD in "keylogger.py".**
 
 •**pip install -r requirements.txt**
 
 •**python3 keylogger.py**
 
-•**Every 10 seconds,You Get the Data from the Target Computer**
-
-•**If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.**
+•**Every 10 seconds, You Should Get the Data from the Target Computer**
 
 
